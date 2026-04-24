@@ -21,7 +21,7 @@ The content of this preparation series is based on Mastercard Capture the Flag S
 - **Session 1:** Networking and Linux *[08/01]*
     - **Slides**
         
-        [Slides.pdf](./assets/complementary/CTF-1.pdf)
+        [Slides.pdf](./assets/complementary/ctf-prep-series/CTF-1.pdf)
         
     - **Challenges**
         1. [**First grep**](https://play.picoctf.org/practice/challenge/85?page=1&search=First](https://play.picoctf.org/practice/challenge/85?page=1&search=First))
@@ -38,7 +38,7 @@ The content of this preparation series is based on Mastercard Capture the Flag S
 - **Session 2:**  Binary Exploration and Reverse Engineering *[15/01]*
     - **Slides**
         
-        [Slides.pdf](./assets/complementary/CTF-2.pdf)
+        [Slides.pdf](./assets/complementary/ctf-prep-series/CTF-2.pdf)
         
     - **Challenges**
         - [Try Hack Me box - Reversing ELF](https://tryhackme.com/room/reverselfiles)
@@ -50,7 +50,7 @@ The content of this preparation series is based on Mastercard Capture the Flag S
 - **Session 4:** Web and Open Source Intelligence *[29/01]*
     - **Slides**
         
-        [Slides.pdf](./assets/complementary/CTF-4.pdf)
+        [Slides.pdf](./assets/complementary/ctf-prep-series/CTF-4.pdf)
         
     - **Challenges**
         - **Forensics**
